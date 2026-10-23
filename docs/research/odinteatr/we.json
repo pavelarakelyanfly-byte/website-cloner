@@ -1,0 +1,621 @@
+{
+  "title": "Мы",
+  "height": 3280,
+  "links": [
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/kukuruzazhe"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/akatov"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/mosolova"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/galas"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/burdeev"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/bushina"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/veligan"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/zhenihov"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/armadov"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/medved"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/khmyz"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/mosolov"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/osipova"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/bazirlendy"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/stebletsov"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/bashkova"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/fogelev"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/chebotarewski"
+    },
+    {
+      "text": "",
+      "href": "http://odinteatr.tilda.ws/yu"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/borisov"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/zolotarev"
+    },
+    {
+      "text": "ГЛАВНАЯ",
+      "href": "/"
+    },
+    {
+      "text": "АФИША",
+      "href": "/#afisha"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "/plays"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "/theatre"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "/faq"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "/contacts"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "rec1873148391",
+      "type": "396",
+      "height": 0,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec561067652",
+      "type": "396",
+      "height": 70,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec407058678",
+      "type": "396",
+      "height": 2950,
+      "top": 70,
+      "text": ""
+    },
+    {
+      "id": "rec407833689",
+      "type": "389",
+      "height": 200,
+      "top": 3020,
+      "text": "\t\nГЛАВНАЯ АФИША СПЕКТАКЛИ ТЕАТР ЗРИТЕЛЯМ КОНТАКТЫ\n\t"
+    },
+    {
+      "id": "rec407835550",
+      "type": "890",
+      "height": 60,
+      "top": 3220,
+      "text": ""
+    }
+  ],
+  "elements": [
+    {
+      "text": "",
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 80,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(rgba(0, 0, 0, 0.39) 0%, rgba(218, 218, 218, 0) 100%)"
+    },
+    {
+      "text": "",
+      "x": 350,
+      "y": 56,
+      "w": 80,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 20,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 20,
+      "w": 48,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 20,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 20,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 17,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 17,
+      "w": 80,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 17,
+      "w": 43,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 17,
+      "w": 80,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 17,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 17,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 45,
+      "y": 720,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1095,
+      "y": 1220,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1095,
+      "y": 1720,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 395,
+      "y": 720,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 55,
+      "y": 2220,
+      "w": 250,
+      "h": 375,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 55,
+      "y": 2615,
+      "w": 250,
+      "h": 375,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1135,
+      "y": 2220,
+      "w": 250,
+      "h": 375,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 745,
+      "y": 1720,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 745,
+      "y": 1220,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 865,
+      "y": 2220,
+      "w": 250,
+      "h": 375,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 745,
+      "y": 720,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 570,
+      "y": 170,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 595,
+      "y": 2220,
+      "w": 250,
+      "h": 375,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 45,
+      "y": 1220,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 325,
+      "y": 2220,
+      "w": 250,
+      "h": 375,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 45,
+      "y": 1720,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 220,
+      "y": 170,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 395,
+      "y": 1220,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 395,
+      "y": 1720,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 920,
+      "y": 170,
+      "w": 300,
+      "h": 450,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 325,
+      "y": 2615,
+      "w": 250,
+      "h": 375,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "title": "Даша Женихова",
+  "height": 21159,
+  "links": [
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "@kukuruzazhe",
+      "href": "https://www.instagram.com/kukuruzazhe/"
+    },
+    {
+      "text": "С УЧИЛИЩА",
+      "href": "http://odinteatr.tilda.ws/suchilisha"
+    },
+    {
+      "text": "ЗАТВОРНИК И ШЕСТИПАЛЫЙ",
+      "href": "http://odinteatr.tilda.ws/zatvornik"
+    },
+    {
+      "text": "PROГОН",
+      "href": "http://odinteatr.tilda.ws/progon"
+    },
+    {
+      "text": "ТЕБЯ 2",
+      "href": "http://odinteatr.tilda.ws/tebya2"
+    },
+    {
+      "text": "СЕРАЯ РАДУГА",
+      "href": "http://odinteatr.tilda.ws/serayaraduga"
+    },
+    {
+      "text": "ШОУ-РУМ",
+      "href": "http://odinteatr.tilda.ws/showroom"
+    },
+    {
+      "text": "ПОНАЕХИ",
+      "href": "http://odinteatr.tilda.ws/ponaehi"
+    },
+    {
+      "text": "Я УМЕР ОТ ВАРЕНЬЯ",
+      "href": "http://odinteatr.tilda.ws/varenie"
+    },
+    {
+      "text": "МНЕ МОЕ СОЛНЫШКО БОЛЬШЕ НЕ СВЕТИТ",
+      "href": "http://project4467098.tilda.ws/page21986944.html"
+    },
+    {
+      "text": "СЕРЕЖА ОЧЕНЬ ТУПОЙ",
+      "href": "http://odinteatr.tilda.ws/serezha"
+    },
+    {
+      "text": "ВИТАМИН РОСТА",
+      "href": "http://odinteatr.tilda.ws/vitaminrosta"
+    },
+    {
+      "text": "НЕВИДИМЫЙ КРАСНОДАР",
+      "href": "http://odinteatr.tilda.ws/nevidimiykrd"
+    },
+    {
+      "text": "КВАЗИФУТБОЛ",
+      "href": "http://odinteatr.tilda.ws/quasifootball"
+    },
+    {
+      "text": "ГОРОД. ОТКРЫТОЕ НЕБО",
+      "href": "http://odinteatr.tilda.ws/gorodnebo"
+    },
+    {
+      "text": "ПОЛНОЕ СЧАСТЬЕ",
+      "href": "http://odinteatr.tilda.ws/polnoeshastye"
+    },
+    {
+      "text": "МЫ",
+      "href": "/we"
+    },
+    {
+      "text": "ГЛАВНАЯ",
+      "href": "/"
+    },
+    {
+      "text": "АФИША",
+      "href": "/"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "/plays"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "/theatre"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "/faq"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "/contacts"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "rec1873148391",
+      "type": "396",
+      "height": 0,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec418757037",
+      "type": "396",
+      "height": 72,
+      "top": 0,
+      "text": ""
+    },
+    {
+      "id": "rec366796076",
+      "type": "396",
+      "height": 870,
+      "top": 72,
+      "text": "ДАША ЖЕНИХОВА\nАКТРИСА\nдаша любит продуктивно поработать. а потом хорошенечко отдохнуть. потанцевать, например.\n@kukuruzazhe\nв спектаклях одного театра:\nС УЧИЛИЩА / ЗАТВОРНИК И ШЕСТИПАЛЫЙ / PROГОН / ТЕ"
+    },
+    {
+      "id": "rec366819699",
+      "type": "660",
+      "height": 19957,
+      "top": 942,
+      "text": ""
+    },
+    {
+      "id": "rec418759475",
+      "type": "389",
+      "height": 200,
+      "top": 20899,
+      "text": "\t\nМЫ ГЛАВНАЯ АФИША СПЕКТАКЛИ ТЕАТР ЗРИТЕЛЯМ КОНТАКТЫ\n\t"
+    },
+    {
+      "id": "rec379128796",
+      "type": "890",
+      "height": 60,
+      "top": 21099,
+      "text": ""
+    }
+  ],
+  "elements": [
+    {
+      "text": "",
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 80,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(rgba(0, 0, 0, 0.39) 0%, rgba(218, 218, 218, 0) 100%)"
+    },
+    {
+      "text": "",
+      "x": 350,
+      "y": 56,
+      "w": 80,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 20,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 20,
+      "w": 48,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 20,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 20,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 138,
+      "y": 13,
+      "w": 63,
+      "h": 46,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ДАША ЖЕНИХОВА",
+      "x": 140,
+      "y": 85,
+      "w": 404,
+      "h": 89,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "60px",
+      "color": "rgb(253, 253, 253)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "АКТРИСА",
+      "x": 141,
+      "y": 224,
+      "w": 68,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "даша любит продуктивно поработать. а потом хорошенечко отдохнуть. потанцевать, например.",
+      "x": 141,
+      "y": 304,
+      "w": 482,
+      "h": 60,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "@kukuruzazhe",
+      "x": 290,
+      "y": 224,
+      "w": 101,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "в спектаклях одного театра:",
+      "x": 141,
+      "y": 464,
+      "w": 460,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "С УЧИЛИЩА / ЗАТВОРНИК И ШЕСТИПАЛЫЙ / PROГОН / ТЕБЯ 2 / СЕРАЯ РАДУГА / ШОУ-РУМ / ПОНАЕХИ / Я УМЕР ОТ ",
+      "x": 141,
+      "y": 504,
+      "w": 478,
+      "h": 150,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 762,
+      "y": 72,
+      "w": 580,
+      "h": 870,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    }
+  ]
+}

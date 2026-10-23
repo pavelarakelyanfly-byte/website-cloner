@@ -1,0 +1,372 @@
+{
+  "title": "Театр",
+  "height": 6361,
+  "links": [
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "МЫ",
+      "href": "/we"
+    },
+    {
+      "text": "ГЛАВНАЯ",
+      "href": "/"
+    },
+    {
+      "text": "АФИША",
+      "href": "/#afisha"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "/plays"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "/theatre"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "/faq"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "/contacts"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "rec1873148391",
+      "type": "396",
+      "height": 0,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec561068918",
+      "type": "396",
+      "height": 1,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec409482507",
+      "type": "396",
+      "height": 1700,
+      "top": 1,
+      "text": "один театр - это независимый театр, генерирующий на своей базе актуальные спектакли и другие формы современного искусства.\nО театре"
+    },
+    {
+      "id": "rec409480901",
+      "type": "396",
+      "height": 1700,
+      "top": 1701,
+      "text": "наша задача создавать условия, в которых зритель перестаёт быть потребителем театрального действия, а становится его непосредственным участником."
+    },
+    {
+      "id": "rec409486534",
+      "type": "396",
+      "height": 1700,
+      "top": 3401,
+      "text": "наш театр для тех, кто готов вместе с нами исследовать себя и окружающую действительность."
+    },
+    {
+      "id": "rec409484994",
+      "type": "396",
+      "height": 1000,
+      "top": 5101,
+      "text": ""
+    },
+    {
+      "id": "rec379129372",
+      "type": "389",
+      "height": 200,
+      "top": 6101,
+      "text": "\t\nМЫ ГЛАВНАЯ АФИША СПЕКТАКЛИ ТЕАТР ЗРИТЕЛЯМ КОНТАКТЫ\n\t"
+    },
+    {
+      "id": "rec379129568",
+      "type": "890",
+      "height": 60,
+      "top": 6301,
+      "text": ""
+    },
+    {
+      "id": "rec398287054",
+      "type": "635",
+      "height": 0,
+      "top": 6361,
+      "text": ""
+    },
+    {
+      "id": "rec417834150",
+      "type": "635",
+      "height": 0,
+      "top": 6361,
+      "text": ""
+    }
+  ],
+  "elements": [
+    {
+      "text": "",
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 80,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(rgba(0, 0, 0, 0.39) 0%, rgba(218, 218, 218, 0) 100%)"
+    },
+    {
+      "text": "",
+      "x": 350,
+      "y": 56,
+      "w": 80,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 20,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 20,
+      "w": 48,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 20,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 20,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 17,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 17,
+      "w": 80,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 17,
+      "w": 43,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 17,
+      "w": 80,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 17,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 17,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "один театр - это независимый театр, генерирующий на своей базе актуальные спектакли и другие формы с",
+      "x": 100,
+      "y": 727,
+      "w": 903,
+      "h": 124,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "40px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "О театре",
+      "x": 1540,
+      "y": 1356,
+      "w": 560,
+      "h": 31,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "наша задача создавать условия, в которых зритель перестаёт быть потребителем театрального действия, ",
+      "x": 100,
+      "y": 3010,
+      "w": 744,
+      "h": 186,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "40px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "наш театр для тех, кто готов вместе с нами исследовать себя и окружающую действительность.",
+      "x": 100,
+      "y": 4197,
+      "w": 749,
+      "h": 108,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "40px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    }
+  ]
+}

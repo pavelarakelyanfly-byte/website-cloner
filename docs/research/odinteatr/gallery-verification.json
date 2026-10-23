@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "route": "/pahlava_gluposti",
+      "viewport": 1440,
+      "width": 1440,
+      "rows": 10,
+      "height": 9253.90625
+    },
+    {
+      "route": "/kukuruzazhe",
+      "viewport": 1440,
+      "width": 1440,
+      "rows": 21,
+      "height": 19909.953125
+    },
+    {
+      "route": "/pahlava_gluposti",
+      "viewport": 390,
+      "width": 390,
+      "rows": 10,
+      "height": 2506.953125
+    },
+    {
+      "route": "/kukuruzazhe",
+      "viewport": 390,
+      "width": 390,
+      "rows": 21,
+      "height": 5394.453125
+    }
+  ],
+  "errors": []
+}

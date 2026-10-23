@@ -1,0 +1,995 @@
+{
+  "title": "Один Театр",
+  "height": 4479,
+  "links": [
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "",
+      "href": "https://www.youtube.com/channel/UCwoKzil98HCNztQ20a3LSeA/featured"
+    },
+    {
+      "text": "",
+      "href": "https://t.me/odin_teatr"
+    },
+    {
+      "text": "",
+      "href": "https://vk.com/odin_teatr"
+    },
+    {
+      "text": "8 962 87 87 887",
+      "href": "tel:+79628787887"
+    },
+    {
+      "text": "Онлайн-консультант по выбору спектакля",
+      "href": "https://t.me/Teatr_Admin_bot"
+    },
+    {
+      "text": "Афиша",
+      "href": "#afisha"
+    },
+    {
+      "text": "",
+      "href": "#afisha/07492640821c1689739e2c98d8b4dfaee96553e4fa493aa"
+    },
+    {
+      "text": "",
+      "href": "#event/2850414"
+    },
+    {
+      "text": "",
+      "href": "#afisha/07492640821c1689739e2c98d8b4dfaee96553e4fa493aa"
+    },
+    {
+      "text": "Все билеты",
+      "href": "#rec1745489651"
+    },
+    {
+      "text": "",
+      "href": null
+    },
+    {
+      "text": "Билеты по Пушкинской карте",
+      "href": "#afisha/07492640821c1689739e2c98d8b4dfaee96553e4fa493aa"
+    },
+    {
+      "text": "ГЛАВНАЯ",
+      "href": "/"
+    },
+    {
+      "text": "АФИША",
+      "href": "#afisha"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "/plays"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "/theatre"
+    },
+    {
+      "text": "МЫ",
+      "href": "/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "/faq"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "/contacts"
+    },
+    {
+      "text": "РЕЗИДЕНЦИЯ МОЛОДОЙ РЕЖИССУРЫ",
+      "href": "https://odinteatr.com/krasnodar1"
+    },
+    {
+      "text": "8 962 87 87 887",
+      "href": "tel:+79628787887"
+    },
+    {
+      "text": "odinteatr@mail.ru",
+      "href": "mailto:odinteatr@mail.ru"
+    },
+    {
+      "text": "ул. Коммунаров 268 В, БЦ \"Кавказ\"",
+      "href": "https://yandex.ru/maps/-/CCUq6LEWSA"
+    },
+    {
+      "text": "",
+      "href": "https://www.youtube.com/channel/UCwoKzil98HCNztQ20a3LSeA/featured"
+    },
+    {
+      "text": "",
+      "href": "https://vk.com/odin_teatr"
+    },
+    {
+      "text": "",
+      "href": "https://t.me/odin_teatr"
+    },
+    {
+      "text": "Купить билеты #rec746881395 .t-btnflex.t-btnflex_type_button{color:#000000;border-style:solid !impor",
+      "href": "#inoe"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "rec1873148391",
+      "type": "396",
+      "height": 0,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec2394646741",
+      "type": "396",
+      "height": 1000,
+      "top": 0,
+      "text": "ОДИН ТЕАТР\nМЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ\nТЕЛЕФОН КАССЫ: 8 962 87 87 887 с 10:00 до 21:00\nонлайн-консультант по выбору спектакля\nАфиша"
+    },
+    {
+      "id": "rec1782711751",
+      "type": "396",
+      "height": 660,
+      "top": 1000,
+      "text": "Все билеты"
+    },
+    {
+      "id": "rec794224755",
+      "type": "1093",
+      "height": 0,
+      "top": 1660,
+      "text": ""
+    },
+    {
+      "id": "rec561005492",
+      "type": "215",
+      "height": 0,
+      "top": 1660,
+      "text": ""
+    },
+    {
+      "id": "rec1745489651",
+      "type": "396",
+      "height": 220,
+      "top": 1660,
+      "text": "AФИША ТЕАТРА"
+    },
+    {
+      "id": "rec3211134501",
+      "type": "396",
+      "height": 170,
+      "top": 1880,
+      "text": "Билеты по Пушкинской карте\nпредложение:\nОсобое"
+    },
+    {
+      "id": "rec447086155",
+      "type": "396",
+      "height": 1250,
+      "top": 2050,
+      "text": ""
+    },
+    {
+      "id": "rec3215883001",
+      "type": "131",
+      "height": 0,
+      "top": 3300,
+      "text": ""
+    },
+    {
+      "id": "rec367787841",
+      "type": "389",
+      "height": 200,
+      "top": 3300,
+      "text": "\t\nГЛАВНАЯ АФИША СПЕКТАКЛИ ТЕАТР МЫ ЗРИТЕЛЯМ КОНТАКТЫ\n\t"
+    },
+    {
+      "id": "rec744483275",
+      "type": "389",
+      "height": 200,
+      "top": 3500,
+      "text": "\t\nРЕЗИДЕНЦИЯ МОЛОДОЙ РЕЖИССУРЫ\n\t"
+    },
+    {
+      "id": "rec356198565",
+      "type": "396",
+      "height": 334,
+      "top": 3700,
+      "text": "8 962 87 87 887\nзвонки принимаются\nс 10:00 до 21:00\n17:00 - 21:00\nв дни спектаклей\nodinteatr@mail.ru\nвк49865\nул. Коммунаров 268 В, БЦ \"Кавказ\"\nТЕЛЕФОН КАССЫ\nВРЕМЯ РАБОТЫ КАССЫ\nEMAIL\nАДРЕС:"
+    },
+    {
+      "id": "rec367843388",
+      "type": "396",
+      "height": 360,
+      "top": 4034,
+      "text": "ИНФОРМАЦИОННЫЕ ПАРТНЕРЫ"
+    },
+    {
+      "id": "rec412420530",
+      "type": "61",
+      "height": 85,
+      "top": 4394,
+      "text": "Фотографии: Валерий Чвалов / Мария Максак / Анастасия Чалая / Алексей Лишута / Виктория Визирякина / Жанна Остроух / Алексей Есиков / Алеко Мирзоян / Елена Анискина "
+    },
+    {
+      "id": "rec746881395",
+      "type": "390",
+      "height": 0,
+      "top": 4479,
+      "text": ""
+    },
+    {
+      "id": "rec561005679",
+      "type": "270",
+      "height": 0,
+      "top": 4479,
+      "text": ""
+    },
+    {
+      "id": "rec794227024",
+      "type": "868",
+      "height": 0,
+      "top": 4479,
+      "text": ""
+    },
+    {
+      "id": "rec845559664",
+      "type": "868",
+      "height": 0,
+      "top": 4479,
+      "text": ""
+    },
+    {
+      "id": "rec805358095",
+      "type": "868",
+      "height": 0,
+      "top": 4479,
+      "text": ""
+    }
+  ],
+  "elements": [
+    {
+      "text": "",
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 80,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(rgba(0, 0, 0, 0.39) 0%, rgba(218, 218, 218, 0) 100%)"
+    },
+    {
+      "text": "",
+      "x": 350,
+      "y": 56,
+      "w": 80,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 20,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 20,
+      "w": 48,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 20,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 20,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 0,
+      "y": -40,
+      "w": 1440,
+      "h": 1000,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ОДИН ТЕАТР",
+      "x": 215,
+      "y": 329,
+      "w": 1010,
+      "h": 248,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "160px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 350,
+      "y": 56,
+      "w": 80,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 20,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 20,
+      "w": 48,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 20,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 20,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1200,
+      "y": 918,
+      "w": 25,
+      "h": 24,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1125,
+      "y": 918,
+      "w": 25,
+      "h": 25,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1275,
+      "y": 918,
+      "w": 25,
+      "h": 25,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕЛЕФОН КАССЫ: 8 962 87 87 887 с 10:00 до 21:00",
+      "x": 140,
+      "y": 863,
+      "w": 136,
+      "h": 87,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 520,
+      "y": 952,
+      "w": 400,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "онлайн-консультант по выбору спектакля",
+      "x": 505,
+      "y": 920,
+      "w": 431,
+      "h": 33,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "18px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "Афиша",
+      "x": 518,
+      "y": 870,
+      "w": 404,
+      "h": 44,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 0,
+      "y": 1000,
+      "w": 1440,
+      "h": 660,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "Все билеты",
+      "x": 600,
+      "y": 1521,
+      "w": 240,
+      "h": 72,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(234, 234, 234)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "AФИША ТЕАТРА",
+      "x": 372,
+      "y": 1731,
+      "w": 696,
+      "h": 108,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "80px",
+      "color": "rgb(20, 20, 20)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 658,
+      "y": 1862,
+      "w": 124,
+      "h": 124,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "Билеты по Пушкинской карте",
+      "x": 518,
+      "y": 1952,
+      "w": 404,
+      "h": 60,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(65, 65, 65)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "предложение:",
+      "x": 751,
+      "y": 1914,
+      "w": 241,
+      "h": 22,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "color": "rgb(65, 65, 65)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "Особое",
+      "x": 432,
+      "y": 1914,
+      "w": 235,
+      "h": 22,
+      "font": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "color": "rgb(65, 65, 65)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 120,
+      "y": 2050,
+      "w": 1200,
+      "h": 1296,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "8 962 87 87 887\nзвонки принимаются\nс 10:00 до 21:00",
+      "x": 140,
+      "y": 3776,
+      "w": 157,
+      "h": 87,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "17:00 - 21:00\nв дни спектаклей",
+      "x": 444,
+      "y": 3776,
+      "w": 225,
+      "h": 58,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "odinteatr@mail.ru",
+      "x": 806,
+      "y": 3775,
+      "w": 119,
+      "h": 29,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "вк49865",
+      "x": 140,
+      "y": 3944,
+      "w": 119,
+      "h": 29,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(53, 53, 53)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ул. Коммунаров 268 В, БЦ \"Кавказ\"",
+      "x": 1111,
+      "y": 3778,
+      "w": 131,
+      "h": 58,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕЛЕФОН КАССЫ",
+      "x": 140,
+      "y": 3748,
+      "w": 129,
+      "h": 29,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ВРЕМЯ РАБОТЫ КАССЫ",
+      "x": 443,
+      "y": 3748,
+      "w": 183,
+      "h": 29,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "EMAIL",
+      "x": 805,
+      "y": 3748,
+      "w": 42,
+      "h": 29,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "АДРЕС:",
+      "x": 1111,
+      "y": 3747,
+      "w": 53,
+      "h": 29,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 892,
+      "y": 3931,
+      "w": 42,
+      "h": 41,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 698,
+      "y": 3929,
+      "w": 44,
+      "h": 44,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 506,
+      "y": 3930,
+      "w": 42,
+      "h": 42,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ИНФОРМАЦИОННЫЕ ПАРТНЕРЫ",
+      "x": 454,
+      "y": 4054,
+      "w": 533,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 866,
+      "y": 4283,
+      "w": 83,
+      "h": 65,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1006,
+      "y": 4302,
+      "w": 157,
+      "h": 32,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 665,
+      "y": 4159,
+      "w": 136,
+      "h": 45,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 266,
+      "y": 4135,
+      "w": 160,
+      "h": 74,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1006,
+      "y": 4162,
+      "w": 237,
+      "h": 26,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 867,
+      "y": 4134,
+      "w": 82,
+      "h": 75,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 461,
+      "y": 4153,
+      "w": 141,
+      "h": 42,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 46,
+      "y": 4269,
+      "w": 250,
+      "h": 88,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 459,
+      "y": 4285,
+      "w": 146,
+      "h": 56,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 666,
+      "y": 4285,
+      "w": 152,
+      "h": 75,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1200,
+      "y": 4269,
+      "w": 97,
+      "h": 97,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 120,
+      "y": 4120,
+      "w": 127,
+      "h": 127,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 240,
+      "y": 4313,
+      "w": 166,
+      "h": 18,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    }
+  ]
+}

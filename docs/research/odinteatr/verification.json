@@ -1,0 +1,189 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 4369,
+      "font": true
+    },
+    {
+      "route": "/plays",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 11424,
+      "font": true
+    },
+    {
+      "route": "/we",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 3253,
+      "font": true
+    },
+    {
+      "route": "/faq",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 1104,
+      "font": true
+    },
+    {
+      "route": "/theatre",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 6301,
+      "font": true
+    },
+    {
+      "route": "/contacts",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 1152,
+      "font": true
+    },
+    {
+      "route": "/pahlava_gluposti",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 7048,
+      "font": true
+    },
+    {
+      "route": "/kukuruzazhe",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 3598,
+      "font": true
+    },
+    {
+      "route": "/arenda",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 2327,
+      "font": true
+    },
+    {
+      "route": "/krasnodar1",
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 5293,
+      "font": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 3496,
+      "font": true
+    },
+    {
+      "route": "/plays",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 6830,
+      "font": true
+    },
+    {
+      "route": "/we",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 10012,
+      "font": true
+    },
+    {
+      "route": "/faq",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 1039,
+      "font": true
+    },
+    {
+      "route": "/theatre",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 4521,
+      "font": true
+    },
+    {
+      "route": "/contacts",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 1421,
+      "font": true
+    },
+    {
+      "route": "/pahlava_gluposti",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 5466,
+      "font": true
+    },
+    {
+      "route": "/kukuruzazhe",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 3312,
+      "font": true
+    },
+    {
+      "route": "/arenda",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 1944,
+      "font": true
+    },
+    {
+      "route": "/krasnodar1",
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 4310,
+      "font": true
+    },
+    {
+      "route": "/",
+      "viewport": 1920,
+      "width": 1920,
+      "scrollWidth": 1920,
+      "height": 4369,
+      "font": true
+    },
+    {
+      "route": "/we",
+      "viewport": 1920,
+      "width": 1920,
+      "scrollWidth": 1920,
+      "height": 3253,
+      "font": true
+    }
+  ],
+  "errors": [],
+  "routeCount": 59,
+  "interactions": [
+    "FAQ open",
+    "Carousel next",
+    "Ticket dialog open and Escape",
+    "Gallery open, next and close",
+    "Mobile header navigation"
+  ]
+}

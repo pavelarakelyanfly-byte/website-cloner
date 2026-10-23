@@ -1,0 +1,78 @@
+{
+  "navigation": [
+    {
+      "label": "СПЕКТАКЛИ",
+      "href": "/plays"
+    },
+    {
+      "label": "ТЕАТР",
+      "href": "/theatre"
+    },
+    {
+      "label": "МЫ",
+      "href": "/we"
+    },
+    {
+      "label": "ЗРИТЕЛЯМ",
+      "href": "/faq"
+    },
+    {
+      "label": "КОНТАКТЫ",
+      "href": "/contacts"
+    }
+  ],
+  "common": {
+    "mainNavigation": "Основная навигация",
+    "home": "Главная",
+    "footerNavigation": "Навигация внизу страницы",
+    "footerHome": "ГЛАВНАЯ",
+    "afisha": "АФИША",
+    "residence": "РЕЗИДЕНЦИЯ МОЛОДОЙ РЕЖИССУРЫ",
+    "partners": "ИНФОРМАЦИОННЫЕ ПАРТНЕРЫ",
+    "partner": "ПАРТНЁР",
+    "credits": "Информация об авторах фотографий и материалов",
+    "backTop": "Наверх"
+  },
+  "contacts": {
+    "phone": "ТЕЛЕФОН КАССЫ",
+    "hours": "ВРЕМЯ РАБОТЫ КАССЫ",
+    "email": "EMAIL",
+    "address": "АДРЕС",
+    "socialsLabel": "Контакты",
+    "messenger": "Контакты в мессенджере",
+    "video": "Видеоканал",
+    "network": "Социальная сеть",
+    "networkText": "вк"
+  },
+  "tickets": {
+    "button": "Билеты",
+    "title": "Даты и билеты",
+    "description": "Здесь будет ваша афиша и система продажи билетов.",
+    "contactPrefix": "Пока подключение не настроено. Для справок:",
+    "close": "Закрыть",
+    "confirm": "Понятно",
+    "attend": "Хочу пойти!"
+  },
+  "plays": {
+    "image": "Изображение спектакля",
+    "heroImage": "Главное изображение спектакля",
+    "navigation": "Разделы спектакля",
+    "aboutNav": "О СПЕКТАКЛЕ",
+    "aboutTitle": "О спектакле",
+    "cast": "СОСТАВ",
+    "photos": "ФОТО",
+    "trailer": "Видео / трейлер спектакля"
+  },
+  "people": {
+    "portrait": "Портрет",
+    "portraitDetail": "Портрет участника",
+    "relatedPlays": "В спектаклях театра:"
+  },
+  "gallery": {
+    "photo": "Фото {number}",
+    "open": "Открыть фото {number}",
+    "close": "Закрыть фотографию",
+    "previous": "Предыдущее фото",
+    "next": "Следующее фото"
+  }
+}

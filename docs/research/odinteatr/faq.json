@@ -1,0 +1,306 @@
+{
+  "title": "Зрителям",
+  "height": 1258,
+  "links": [
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "нашем сайте",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "+79628787887",
+      "href": "tel:+79628787887"
+    },
+    {
+      "text": "ссылке",
+      "href": "https://radario.ru/customer/refunds/submit"
+    },
+    {
+      "text": "Яндекс.Карты",
+      "href": "https://yandex.ru/maps/-/CCU5B0hp-B"
+    },
+    {
+      "text": "Google Maps",
+      "href": "https://goo.gl/maps/dZeWiCs4GBdHRJ1h6"
+    },
+    {
+      "text": "2ГИС",
+      "href": "https://go.2gis.com/zle6lr"
+    },
+    {
+      "text": "Apple Maps",
+      "href": "https://maps.apple.com/?address=%D1%83%D0%BB%D0%B8%D1%86%D0%B0%20%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B2,%20268,%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80,%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B9,%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F,%20350020&auid=7793968686155052248&ll=45.048280,38.983970&lsp=9902&q=%D0%9E%D0%B4%D0%B8%D0%BD%20%D1%82%D0%B5%D0%B0%D1%82%D1%80&_ext=CisKBQgEEL4BCgQIBRADCgQIBhAXCgQIChAACgQIUhACCgQIVRAQCgQIWRADEiYpc91KVpaFRkAxQb7nUwZ9Q0A58bJwsryGRkBBf4c/96Z+Q0BQBA%3D%3D&t=m"
+    },
+    {
+      "text": "ГЛАВНАЯ",
+      "href": "/"
+    },
+    {
+      "text": "АФИША",
+      "href": "/#afisha"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "/plays"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "/theatre"
+    },
+    {
+      "text": "МЫ",
+      "href": "/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "/faq"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "rec1873148391",
+      "type": "396",
+      "height": 0,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec561071029",
+      "type": "396",
+      "height": 70,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec391573860",
+      "type": "585",
+      "height": 988,
+      "top": 70,
+      "text": "КАК ПРИОБРЕСТИ БИЛЕТ\nВОЗВРАТ БИЛЕТОВ\nПОДАРОЧНЫЕ БИЛЕТЫ\nКАК НАС НАЙТИ\nПАРКОВКА\nПОЧЕМУ СТОИТ ПРИЙТИ ЗАРАНЕЕ\nМОЖНО ЛИ СНИМАТЬ ФОТО И ВИДЕО ВО ВРЕМЯ СПЕКТАКЛЯ\nЧЕГО ПРОСИМ НЕ ДЕЛАТЬ\nЧТО ПРОСИМ ДЕЛАТЬ"
+    },
+    {
+      "id": "rec391584628",
+      "type": "389",
+      "height": 200,
+      "top": 1058,
+      "text": "\t\nГЛАВНАЯ АФИША СПЕКТАКЛИ ТЕАТР МЫ ЗРИТЕЛЯМ\n\t"
+    }
+  ],
+  "elements": [
+    {
+      "text": "",
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 80,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(rgba(0, 0, 0, 0.39) 0%, rgba(218, 218, 218, 0) 100%)"
+    },
+    {
+      "text": "",
+      "x": 332,
+      "y": 56,
+      "w": 80,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 20,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 20,
+      "w": 48,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 20,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 20,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 17,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 17,
+      "w": 80,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 17,
+      "w": 43,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 17,
+      "w": 80,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 17,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 17,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    }
+  ]
+}

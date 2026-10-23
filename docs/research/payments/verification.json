@@ -1,0 +1,27 @@
+{
+  "views": [
+    {
+      "width": 1440,
+      "contentWidth": 1440,
+      "fontLoaded": true
+    },
+    {
+      "width": 390,
+      "contentWidth": 390,
+      "fontLoaded": true
+    }
+  ],
+  "errors": [],
+  "responseMs": 26,
+  "checks": [
+    "native email validation",
+    "pending button disabled",
+    "API error and retry",
+    "successful redirect",
+    "invalid JSON and input: 400",
+    "receipt total mismatch: 400",
+    "valid API: 200",
+    "GET: 405",
+    "existing routes: 200"
+  ]
+}

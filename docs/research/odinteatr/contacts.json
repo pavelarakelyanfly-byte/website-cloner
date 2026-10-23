@@ -1,0 +1,498 @@
+{
+  "title": "Контакты",
+  "height": 1152,
+  "links": [
+    {
+      "text": "МЫ",
+      "href": "https://odinteatr.com/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "https://odinteatr.com/faq"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "https://odinteatr.com/theatre"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "href": "https://odinteatr.com/contacts"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "https://odinteatr.com/plays"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com/"
+    },
+    {
+      "text": "",
+      "href": "https://odinteatr.com"
+    },
+    {
+      "text": "8903 458 07 26",
+      "href": "tel:+79034580726"
+    },
+    {
+      "text": "Ул. Коммунаров 268 л. В, БЦ. \"Кавказ\"",
+      "href": "https://goo.gl/maps/Ava9WsbfJ89kqtMw5"
+    },
+    {
+      "text": "odinteatr@mail.ru",
+      "href": "mailto:odinteatr@mail.ru"
+    },
+    {
+      "text": "lmalikowa@yandex.ru",
+      "href": "mailto:lmalikowa@yandex.ru"
+    },
+    {
+      "text": "",
+      "href": "https://www.youtube.com/channel/UCwoKzil98HCNztQ20a3LSeA/featured"
+    },
+    {
+      "text": "",
+      "href": "https://vk.com/odin_teatr"
+    },
+    {
+      "text": "8 962 87 87 887",
+      "href": "tel:+79628787887"
+    },
+    {
+      "text": "",
+      "href": "https://t.me/odin_teatr"
+    },
+    {
+      "text": "Страница аренды",
+      "href": "/arenda"
+    },
+    {
+      "text": "ГЛАВНАЯ",
+      "href": "/"
+    },
+    {
+      "text": "АФИША",
+      "href": "/#afisha"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "href": "/plays"
+    },
+    {
+      "text": "ТЕАТР",
+      "href": "/theatre"
+    },
+    {
+      "text": "МЫ",
+      "href": "/we"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "href": "/faq"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "rec1873148391",
+      "type": "396",
+      "height": 0,
+      "top": 0,
+      "text": "МЫ\nЗРИТЕЛЯМ\nТЕАТР\nКОНТАКТЫ\nСПЕКТАКЛИ"
+    },
+    {
+      "id": "rec389550208",
+      "type": "396",
+      "height": 92,
+      "top": 0,
+      "text": ""
+    },
+    {
+      "id": "rec366840459",
+      "type": "396",
+      "height": 860,
+      "top": 92,
+      "text": "КОНТАКТЫ\n8903 458 07 26\n17:00 - 21:00 в дни спектаклей\nУл. Коммунаров 268 л. В, БЦ. \"Кавказ\"\nodinteatr@mail.ru\nlmalikowa@yandex.ru\nАЛЕКСЕЙ МОСОЛОВ\nЕЛЕНА МАЛИКОВА\nТЕЛЕФОН КАССЫ\nВРЕМЯ РАБОТЫ КАССЫ\nEMAIL"
+    },
+    {
+      "id": "rec379131409",
+      "type": "389",
+      "height": 200,
+      "top": 952,
+      "text": "\t\nГЛАВНАЯ АФИША СПЕКТАКЛИ ТЕАТР МЫ ЗРИТЕЛЯМ\n\t"
+    }
+  ],
+  "elements": [
+    {
+      "text": "",
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 80,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(rgba(0, 0, 0, 0.39) 0%, rgba(218, 218, 218, 0) 100%)"
+    },
+    {
+      "text": "",
+      "x": 335,
+      "y": 56,
+      "w": 80,
+      "h": 1,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgb(191, 250, 196)",
+      "bgImage": "none"
+    },
+    {
+      "text": "МЫ",
+      "x": 794,
+      "y": 20,
+      "w": 27,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЗРИТЕЛЯМ",
+      "x": 979,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕАТР",
+      "x": 593,
+      "y": 20,
+      "w": 48,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(240, 240, 240)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 1218,
+      "y": 20,
+      "w": 84,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "СПЕКТАКЛИ",
+      "x": 346,
+      "y": 20,
+      "w": 87,
+      "h": 31,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(252, 249, 249)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 140,
+      "y": 20,
+      "w": 48,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 138,
+      "y": 32,
+      "w": 78,
+      "h": 57,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "КОНТАКТЫ",
+      "x": 140,
+      "y": 192,
+      "w": 159,
+      "h": 60,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "40px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "8903 458 07 26",
+      "x": 298,
+      "y": 472,
+      "w": 157,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "17:00 - 21:00 в дни спектаклей",
+      "x": 1000,
+      "y": 592,
+      "w": 223,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "Ул. Коммунаров 268 л. В, БЦ. \"Кавказ\"",
+      "x": 1000,
+      "y": 712,
+      "w": 295,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "odinteatr@mail.ru",
+      "x": 1000,
+      "y": 472,
+      "w": 157,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "lmalikowa@yandex.ru",
+      "x": 300,
+      "y": 352,
+      "w": 159,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "АЛЕКСЕЙ МОСОЛОВ",
+      "x": 140,
+      "y": 472,
+      "w": 158,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ЕЛЕНА МАЛИКОВА",
+      "x": 142,
+      "y": 352,
+      "w": 141,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ТЕЛЕФОН КАССЫ",
+      "x": 1000,
+      "y": 302,
+      "w": 158,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ВРЕМЯ РАБОТЫ КАССЫ",
+      "x": 1000,
+      "y": 542,
+      "w": 183,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "EMAIL",
+      "x": 1000,
+      "y": 422,
+      "w": 158,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "АДРЕС:",
+      "x": 1000,
+      "y": 662,
+      "w": 158,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1077,
+      "y": 784,
+      "w": 35,
+      "h": 34,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1000,
+      "y": 783,
+      "w": 37,
+      "h": 37,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ГАСТРОЛИ / ФЕСТИВАЛИ:",
+      "x": 142,
+      "y": 302,
+      "w": 188,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ПАРТНЕРАМ / СПОНСОРАМ:",
+      "x": 140,
+      "y": 422,
+      "w": 204,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "8 962 87 87 887 с 10:00 до 21:00",
+      "x": 1000,
+      "y": 352,
+      "w": 247,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "",
+      "x": 1152,
+      "y": 784,
+      "w": 35,
+      "h": 35,
+      "font": "\"Times New Roman\"",
+      "size": "16px",
+      "color": "rgb(255, 133, 98)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "ВОПРОСЫ АРЕНДЫ ПОМЕЩЕНИЙ ТЕАТРА",
+      "x": 142,
+      "y": 558,
+      "w": 349,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "НАДЕЖДА БОНДАРЕНКО",
+      "x": 142,
+      "y": 602,
+      "w": 192,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "8952 832 85 43",
+      "x": 343,
+      "y": 602,
+      "w": 157,
+      "h": 30,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "20px",
+      "color": "rgb(191, 250, 196)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    },
+    {
+      "text": "Страница аренды",
+      "x": 140,
+      "y": 652,
+      "w": 319,
+      "h": 70,
+      "font": "Oswald, Arial, sans-serif",
+      "size": "18px",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none"
+    }
+  ]
+}
