@@ -1,5 +1,5 @@
 {
-  "brand": "ТЕАТР ГЕЛИОС",
+  "brand": "КРАСНОДАРСКИЙ ТЕАТР ГЕЛИОС",
   "phone": "+7 (000) 000-00-00",
   "email": "hello@example.com",
   "address": "Ваш город, улица, дом",
@@ -60,10 +60,11 @@
     "rental": "",
     "residence": "",
     "background": "/sites/odinteatr/backgrounds/helios-background.png",
-    "logo": "/sites/odinteatr/logos/helios-sun.png"
+    "logo": "/sites/odinteatr/logos/helios-sun.png",
+    "wordmark": "/sites/odinteatr/logos/helios-wordmark.jpg"
   },
   "metadata": {
-    "title": "Ваш театр",
+    "title": "Краснодарский театр Гелиос",
     "description": "Афиша, спектакли и команда театра"
   }
 }

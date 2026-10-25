@@ -60,3 +60,9 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
 
 /* Home link uses the Helios logo. */
 .brand-mark{display:grid;place-items:center;width:48px;height:48px}.brand-mark img{display:block;width:100%;height:100%;object-fit:contain}@media(max-width:600px){.brand-mark{width:32px;height:32px}}
+
+/* Original wordmark artwork: retain its lettering and gold; remove white at render time. */
+.hero-wordmark-filters{position:absolute;width:0;height:0;overflow:hidden;pointer-events:none}
+.home-hero .hero-wordmark{top:8%;left:50%;right:auto;transform:translateX(-50%);width:min(760px,calc(100% - 48px));margin:0;line-height:0;font-size:inherit}
+.hero-wordmark-image{display:block;width:100%;height:auto;filter:url(#helios-wordmark-clear-white) drop-shadow(0 2px 5px #000b)}
+@media(max-width:600px){.home-hero .hero-wordmark{top:15%;width:calc(100% - 24px);max-width:420px}}
