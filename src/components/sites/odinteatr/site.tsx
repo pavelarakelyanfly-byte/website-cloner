@@ -2,6 +2,7 @@
 import legal from "../../../../content/legal.json";
 import pages from "../../../../content/pages.json";
 import Link from "next/link";
+import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 import { siteContent as content, plays, people, ui, numberedLabel } from "@/lib/content";
 const navigation = ui.navigation.map(({ label, href }) => [label, href]);
@@ -16,7 +17,7 @@ function Media({ label, image = "", className = "" }: {
 export function Header({ route }: {
   route: string;
 }) {
-  return <header className="site-header"><nav className="header-inner" aria-label={ui.common.mainNavigation}><Link className="brand-mark" href="/" aria-label={ui.common.home}><svg viewBox="0 0 48 40" fill="none" aria-hidden="true"><path d="M4 34H44M7 13L24 4L41 13M13 17V31M23 12V31M33 17V31" stroke="currentColor" strokeWidth="2"/></svg></Link>{navigation.map(([name, href]) => <Link key={href} href={href} aria-current={"/" + route === href ? "page" : undefined}>{name}</Link>)}</nav></header>;
+  return <header className="site-header"><nav className="header-inner" aria-label={ui.common.mainNavigation}><Link className="brand-mark" href="/" aria-label={ui.common.home}><Image src={content.media.logo} alt="" width={48} height={48} sizes="(max-width: 600px) 32px, 48px" /></Link>{navigation.map(([name, href]) => <Link key={href} href={href} aria-current={"/" + route === href ? "page" : undefined}>{name}</Link>)}</nav></header>;
 }
 function Socials() { return <div className="socials" aria-label={ui.contacts.socialsLabel}><Link href="/contacts" aria-label={ui.contacts.messenger}>↗</Link><Link href="/contacts" aria-label={ui.contacts.video}>▶</Link><Link href="/contacts" aria-label={ui.contacts.network}>{ui.contacts.networkText}</Link></div>; }
 function ContactGrid() { return <div className="contact-grid">{[[ui.contacts.phone, content.phone], [ui.contacts.hours, content.hours], [ui.contacts.email, content.email], [ui.contacts.address, content.address]].map(([label, value]) => <div key={label}><p>{label}</p><span>{value}</span></div>)}</div>; }

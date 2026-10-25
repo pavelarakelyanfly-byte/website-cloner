@@ -1,5 +1,5 @@
 {
-  "brand": "ВАШ ТЕАТР",
+  "brand": "ТЕАТР ГЕЛИОС",
   "phone": "+7 (000) 000-00-00",
   "email": "hello@example.com",
   "address": "Ваш город, улица, дом",
@@ -45,7 +45,7 @@
   ],
   "intro": "Здесь будет ваш текст. Расскажите о театре, его идее и людях. Длина этого абзаца показывает, как текст располагается в макете. Содержание можно заменить в файле content.json.",
   "media": {
-    "homeHero": "",
+    "homeHero": "/sites/odinteatr/backgrounds/helios-home.png",
     "promos": [
       "",
       "",
@@ -58,7 +58,9 @@
       ""
     ],
     "rental": "",
-    "residence": ""
+    "residence": "",
+    "background": "/sites/odinteatr/backgrounds/helios-background.png",
+    "logo": "/sites/odinteatr/logos/helios-sun.png"
   },
   "metadata": {
     "title": "Ваш театр",
